@@ -1,0 +1,10 @@
+{
+  "description": "Engaging platform for gamer students to explore local news through interactive stories, personalized experiences, and community features.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
